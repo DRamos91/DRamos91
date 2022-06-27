@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DRamos91 (Daniel Moreno)
 - 👀 I'm look for opportunities in the Java development area.
-- 🌱 I’m currently learning about Java
+- 🌱 I’m junior java developer
 - 💞️ I'm looking to collaborate on with new experience
 - 📫 How to reach me: danielmrg@gmail.com
 
