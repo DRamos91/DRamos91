@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DRamos91 (Daniel Moreno)
-- 👀 I'm interested in learning more about programming
-- 🌱 I’m currently learning about Python, Goland, JavaScript
+- 👀 I'm look for opportunities in the Java development area.
+- 🌱 I’m currently learning about Java
 - 💞️ I'm looking to collaborate on with new experience
 - 📫 How to reach me: danielmrg@gmail.com
 
